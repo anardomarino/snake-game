@@ -6,6 +6,10 @@ import java.awt.event.KeyEvent;
 import java.util.ArrayList;
 import java.lang.Math;
 
+/*
+* @author Anthony Nardomarino
+*/ 
+
 public class Game extends JPanel implements Runnable, KeyListener{
     private Color backGroundColor = Color.BLUE, borderColor = Color.RED, pColor = Color.YELLOW;
     private int pX = 500, pY = 300, whiteX = 100, whiteY = 200, score = 0, highScore = 0;
