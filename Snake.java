@@ -1,4 +1,7 @@
 import javax.swing.JFrame;
+/*
+* @author Anthony Nardomarino
+*/
 
 public class Snake extends JFrame{
     public Snake(){
